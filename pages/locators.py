@@ -12,3 +12,4 @@ class ProductPageLocators():
     ADD_TO_CART_BTN = (By.CSS_SELECTOR, '.btn-add-to-basket')
     PRODUCT_NAME_FROM_NOTICE = (By.CSS_SELECTOR, '.alertinner strong')
     PRODUCT_NAME_FROM_CONTENT = (By.CSS_SELECTOR, '.product_main h1')
+    ADD_TO_CART_NOTICE = (By.CSS_SELECTOR, '.alertinner')
